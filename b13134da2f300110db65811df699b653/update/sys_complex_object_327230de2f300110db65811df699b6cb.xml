@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_complex_object">
+    <sys_complex_object action="INSERT_OR_UPDATE">
+        <label/>
+        <name>FD7e7230dec8300110d792bfb11d4bf1ca</name>
+        <namespace>FlowDesigner</namespace>
+        <scope_name>b13134da2f300110db65811df699b653</scope_name>
+        <serialized_content>{"FlowDesigner:FD7e7230dec8300110d792bfb11d4bf1ca":{"code":"Integer","code.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"Integer\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"integer\",\"default_value\":\"\",\"label\":\"Code\",\"action_error_output\":\"true\",\"mandatory\":\"false\",\"order\":\"1\",\"max_length\":\"40\"}"},"message":"String","message.$field_facets":{"SimpleMapFacet":"{\"uiTypeLabel\":\"String\",\"read_only\":\"false\",\"hint\":\"\",\"uiType\":\"string\",\"default_value\":\"\",\"label\":\"Message\",\"action_error_output\":\"true\",\"mandatory\":\"false\",\"order\":\"2\",\"max_length\":\"4000\"}"}},"FlowDesigner:FD7e7230dec8300110d792bfb11d4bf1ca.$type_facets":{"SimpleMapFacet":"{\"sourceId\":\"\",\"default_value\":\"\",\"label\":\"Action Status\",\"action_error_output\":\"true\",\"mandatory\":\"false\",\"uiUniqueId\":\"9b0dc342-a772-4785-95bb-80c40216ee66\",\"uiTypeLabel\":\"Object\",\"co_type_name\":\"FD7e7230dec8300110d792bfb11d4bf1ca\",\"element_mapping_provider\":\"com.glide.flow_design.action.data.FlowDesignVariableMapper\",\"read_only\":\"false\",\"sourceUiUniqueId\":\"\",\"sourceType\":\"\",\"hint\":null,\"uiType\":\"object\",\"order\":\"1\",\"max_length\":\"65000\"}"}}</serialized_content>
+        <sys_class_name>sys_complex_object</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-01-04 05:57:03</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>327230de2f300110db65811df699b6cb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>FD7e7230dec8300110d792bfb11d4bf1ca</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="IPInfo Spoke" source="x_734635_ipinfo_sp">b13134da2f300110db65811df699b653</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="IPInfo Spoke">b13134da2f300110db65811df699b653</sys_scope>
+        <sys_update_name>sys_complex_object_327230de2f300110db65811df699b6cb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-01-04 05:57:03</sys_updated_on>
+        <type>complex_object_schema</type>
+    </sys_complex_object>
+</record_update>
